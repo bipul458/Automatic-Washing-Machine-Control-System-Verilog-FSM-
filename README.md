@@ -19,7 +19,7 @@ This project simulates an **Automatic Washing Machine** using a **Finite State M
 ---
 
 ## 🧠 FSM Flow Chart
-![FSM Flow Chart](flowchart.png)
+![FSM Flow Chart](https://www.figma.com/board/Pljb7fuEZjoz68vIUGzotI/Automatic-Washing-Machine-FSM?node-id=0-1&t=PeIbcGiCJrjlBcIK-1)
 
 ---
 
